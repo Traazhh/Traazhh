@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="adhaaanzet@gmail.com">
+<a href="mailto:youremail@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-5C2751?style=for-the-badge&logo=gmail&logoColor=FCE9B0" />
 </a>
 <a href="#">
@@ -64,12 +64,12 @@ const ramadhan = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&title_color=E8905A&text_color=FCE9B0&icon_color=A61B44&bg_color=5C2751&border_color=A61B44&hide_border=false"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&title_color=E8905A&text_color=FCE9B0&icon_color=A61B44&bg_color=5C2751&border_color=A61B44&hide_border=false"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&title_color=E8905A&text_color=FFFFFF&icon_color=A61B44&bg_color=5C2751&border_color=A61B44&hide_border=false"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&title_color=E8905A&text_color=FFFFFF&icon_color=A61B44&bg_color=5C2751&border_color=A61B44&hide_border=false"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&background=5C2751&ring=E8905A&fire=E8905A&currStreakLabel=FCE9B0&stroke=A61B44&hide_border=false"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&background=5C2751&ring=E8905A&fire=E8905A&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=A61B44&hide_border=false"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FCE9B0&height=2&width=100%" width="100%"/>
@@ -78,7 +78,7 @@ const ramadhan = {
 
 <div align="center">
 
-[![Instagram](https://www.instagram.com/dhanptras?igsh=b292c2s1ZnBucXQ0)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-5C2751?style=for-the-badge&logo=instagram&logoColor=FCE9B0)](https://www.instagram.com/dhanptras?igsh=b292c2s1ZnBucXQ0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A61B44?style=for-the-badge&logo=linkedin&logoColor=FCE9B0)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-E8905A?style=for-the-badge&logo=twitter&logoColor=5C2751)](#)
 
