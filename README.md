@@ -48,14 +48,12 @@ const ramadhan = {
 
 ![HTML5](https://img.shields.io/badge/HTML5-5C2751?style=for-the-badge&logo=html5&logoColor=FCE9B0)
 ![CSS3](https://img.shields.io/badge/CSS3-A61B44?style=for-the-badge&logo=css3&logoColor=FCE9B0)
-![JavaScript](https://img.shields.io/badge/JavaScript-E8905A?style=for-the-badge&logo=javascript&logoColor=5C2751)
-![React](https://img.shields.io/badge/React-5C2751?style=for-the-badge&logo=react&logoColor=FCE9B0)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-A61B44?style=for-the-badge&logo=tailwindcss&logoColor=FCE9B0)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-E8905A?style=for-the-badge&logo=bootstrap&logoColor=5C2751)
+![PHP](https://img.shields.io/badge/PHP-5C2751?style=for-the-badge&logo=php&logoColor=FCE9B0)
 
-![Python](https://img.shields.io/badge/Python-E8905A?style=for-the-badge&logo=python&logoColor=5C2751)
-![Pandas](https://img.shields.io/badge/Pandas-5C2751?style=for-the-badge&logo=pandas&logoColor=FCE9B0)
-![Jupyter](https://img.shields.io/badge/Jupyter-A61B44?style=for-the-badge&logo=jupyter&logoColor=FCE9B0)
-![Git](https://img.shields.io/badge/Git-E8905A?style=for-the-badge&logo=git&logoColor=5C2751)
+![Python](https://img.shields.io/badge/Python-A61B44?style=for-the-badge&logo=python&logoColor=FCE9B0)
+![Google Apps Script](https://img.shields.io/badge/Apps%20Script-E8905A?style=for-the-badge&logo=google&logoColor=5C2751)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-5C2751?style=for-the-badge&logo=arduino&logoColor=FCE9B0)
 
 </div>
 
