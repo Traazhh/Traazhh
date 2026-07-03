@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="mailto:youremail@gmail.com">
+<a href="adhaaanzet@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-5C2751?style=for-the-badge&logo=gmail&logoColor=FCE9B0" />
 </a>
 <a href="#">
@@ -36,7 +36,7 @@ const ramadhan = {
   role: "Frontend Developer",
   focus: ["UI/UX", "Data Visualization", "AI-powered tools"],
   currentlyExploring: "turning raw data into meaningful stories",
-  motivation: "we walk the talk, not only talk the talk",
+  motivation: "every maze has an end",
 };
 ```
 
@@ -78,7 +78,7 @@ const ramadhan = {
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-5C2751?style=for-the-badge&logo=instagram&logoColor=FCE9B0)](#)
+[![Instagram](https://www.instagram.com/dhanptras?igsh=b292c2s1ZnBucXQ0)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A61B44?style=for-the-badge&logo=linkedin&logoColor=FCE9B0)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-E8905A?style=for-the-badge&logo=twitter&logoColor=5C2751)](#)
 
